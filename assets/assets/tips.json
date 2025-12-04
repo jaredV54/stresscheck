@@ -1,0 +1,44 @@
+{
+  "tips": [
+    {
+      "category": "Breathing Exercises",
+      "title": "Deep Breathing",
+      "description": "Take a slow, deep breath in through your nose for 4 seconds, hold for 4 seconds, then exhale through your mouth for 4 seconds. Repeat 5 times."
+    },
+    {
+      "category": "Breathing Exercises",
+      "title": "4-7-8 Breathing",
+      "description": "Inhale quietly through your nose for 4 seconds, hold your breath for 7 seconds, exhale completely through your mouth for 8 seconds. Repeat 4 times."
+    },
+    {
+      "category": "Rest Reminders",
+      "title": "Take Breaks",
+      "description": "Every hour, stand up, stretch, and take a 5-minute walk. This helps reset your mind and reduce physical tension."
+    },
+    {
+      "category": "Rest Reminders",
+      "title": "Digital Detox",
+      "description": "Set aside 30 minutes before bed with no screens. Read a book or meditate to help you unwind and sleep better."
+    },
+    {
+      "category": "Work-Life Balance",
+      "title": "Set Boundaries",
+      "description": "Define clear work hours and stick to them. Turn off work notifications outside of these hours to maintain balance."
+    },
+    {
+      "category": "Work-Life Balance",
+      "title": "Hobbies & Interests",
+      "description": "Dedicate time each week to activities you enjoy that are unrelated to work. This helps maintain mental well-being."
+    },
+    {
+      "category": "Motivational Messages",
+      "title": "You're Doing Great",
+      "description": "Remember that it's okay to not be perfect. Progress takes time, and every small step counts towards your goals."
+    },
+    {
+      "category": "Motivational Messages",
+      "title": "Self-Compassion",
+      "description": "Be kind to yourself. Treat yourself with the same understanding and patience you would offer a good friend."
+    }
+  ]
+}
